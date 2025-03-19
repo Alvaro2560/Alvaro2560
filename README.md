@@ -2,7 +2,7 @@
 
 Hello, my name is Álvaro Fontenla and I am studying Computer Engineering at [University of La Laguna](https://www.ull.es). I have a strong interest in software development, algorithms, and artificial intelligence.
 
-- 🔭 I’m currently learning and improving my skills in Artificial Intelligence and Rust.
+- 🔭 I’m currently learning and improving my skills in Artificial Intelligence.
 - 💬 Talk with me over tech, basket, music and anime!
 - 📫 How to reach me: alvaro.fontenla.33@ull.edu.es
 
@@ -23,6 +23,7 @@ Hello, my name is Álvaro Fontenla and I am studying Computer Engineering at [Un
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://react.dev)  
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](https://nodejs.org/en)  
+[![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](https://ui.shadcn.com)
 
 #### **Data & Databases:**
